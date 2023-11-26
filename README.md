@@ -6,24 +6,7 @@ I am a 21 year old junior software developer passionate about productionizing AI
 - 🏗️ My current web stack is NextJS, React, TypeScript and PostgreSQL.
 - 🌱 I’m currently learning NextJS and PyTorch.
 - 👯 I’m looking to collaborate on AI tools and projects.
-
-## Tools and Technologies
-
-### Web Development
-
-- **Frontend**: NextJS, React, Vite, JavaScript
-- **Backend & Hosting**: Vercel, Supabase, Cloudflare (Pages, Workers, R2)
-- **Authentication & Management**: Clerk, Kinde
-
-### AI & Machine Learning
-
-- **Frameworks & Libraries**: TensorFlow, OpenCV, Langchain, OpenAI
-- **Services**: Azure Cognitive Vision, AWS, GCP
-
-### Other Technologies
-
-- **Development Platforms**: Unity
-- **Cloud Services**: AWS, GCP
+- 🧰 Tools I used or using NextJS, OpenAI, Vercel, Kinde, Clerk, Langchain, Supabase, JavaScript, Vite, React, Cloudflare(Pages&Workers&R2), OpenCV, TensorFlow, Azure Cognitive Vision, Unity, AWS, GCP.
 
 You can reach me at these places:
 
