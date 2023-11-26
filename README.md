@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**umuthopeyildirim/umuthopeyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 21 year old junior software developer passionate about productionizing AI. I enjoy transforming AI tools and research into practical, scalable software solutions.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [MarkAI](https://github.com/umuthopeyildirim/markai), [Kinde](https://github.com/kinde-oss) and Mirage.
+- 🏗️ My current web stack is NextJS, React, TypeScript and PostgreSQL.
+- 🌱 I’m currently learning NextJS and PyTorch.
+- 👯 I’m looking to collaborate on AI tools and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can reach me at these places:
+
+- [LinkedIn](https://www.linkedin.com/in/umuthopeyildirim/)
+- [Instagram](https://www.instagram.com/umuthopeyildirim/)
+- [Email](mailto:info@umutyildirim.com)
